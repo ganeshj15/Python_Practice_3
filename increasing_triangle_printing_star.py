@@ -5,8 +5,8 @@ for i in range(n):
         print('*', end=' ')
     print()
 
+# O/P pattern
 """
-This O/P will be produced
 * 
 * * 
 * * * 
